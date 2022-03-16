@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **TATA-1-Mg**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MongoDB, React Js**
+- 🌱 I’m currently learning ** React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soubhagya118](https://github.com/Soubhagya118)
 
