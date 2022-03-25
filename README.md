@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soubhagya118](https://github.com/Soubhagya118)
 
-- My Portfolio [https://portfoliosoubhagya.netlify.app/](https://portfoliosoubhagya.netlify.app/)
+- My Portfolio [https://soubhagyasamal.netlify.app/](https://soubhagyasamal.netlify.app/)
 
 - 📫 How to reach me **soubhagyaasamal@gmail.com**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagya118&show_icons=true&locale=en" alt="soubhagya118" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagya118&" alt="soubhagya118" /></p>
-
