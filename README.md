@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soubhagya118" alt="soubhagya118" /></a> </p>
 
-- 🔭 I’m currently working on **TATA-1-Mg**
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, MongoDB, React Js**
+- 🌱 I’m currently learning **Full stack Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soubhagya118](https://github.com/Soubhagya118)
 
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soubhagya-samal-4496171ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhagya-samal-4496171ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soubhagya-samal-4496171ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soubhagya-samal-4496171ba/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soubhagya118&show_icons=true&locale=en" alt="soubhagya118" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soubhagya118&" alt="soubhagya118" /></p>
+
