@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soubhagya</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img width="100%" height="400px" margin="auto" src="https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soubhagya118&label=Profile%20views&color=0e75b6&style=flat" alt="soubhagya118" /> </p>
 
