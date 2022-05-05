@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Soubhagya</h1>
+<h1 align="center">Hi
+<g-emoji class="g-emoji" alias="wave" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+, I'm Soubhagya
+</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img width="100%" height="400px" margin="auto" src="https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif">
 
