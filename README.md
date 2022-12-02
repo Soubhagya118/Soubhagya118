@@ -13,11 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soubhagya118](https://github.com/Soubhagya118)
 
-- My Portfolio [https://soubhagyasamal.netlify.app/](https://soubhagyasamal.netlify.app/)
-
 - 📫 How to reach me **soubhagyaasamal@gmail.com**
 
-- My Resume [https://drive.google.com/drive/folders/1sUWDmHQJ_ZxAdqi1rojpjwqib535f-kp?usp=sharing](https://drive.google.com/drive/folders/1sUWDmHQJ_ZxAdqi1rojpjwqib535f-kp?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
